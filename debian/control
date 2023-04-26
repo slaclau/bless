@@ -1,0 +1,11 @@
+Source: python-bless
+Section: python
+Priority: optional
+Maintainer: Sebastien Laclau <seb.laclau@gmail.com>
+Build-Depends: python3-all
+
+Package: python3-bless
+Architecture: any
+Multi-Arch: allowed
+Depends: ${python3:Depends}, ${shlibs:Depends}, ${misc:Depends}
+Description: Python 3 bluetooth interface
