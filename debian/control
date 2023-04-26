@@ -8,4 +8,6 @@ Package: python3-bless
 Architecture: any
 Multi-Arch: allowed
 Depends: ${python3:Depends}, ${shlibs:Depends}, ${misc:Depends}
+Recommends: ${python3:Recommends},
+Suggests: ${python3:Suggests},
 Description: Python 3 bluetooth interface
