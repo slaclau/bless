@@ -1,4 +1,4 @@
-python-bless (0.2.5-3) jammy; urgency=medium
+python-bless (0.2.5-3) replaceme; urgency=medium
 
   * Add python3-bleak.
 
