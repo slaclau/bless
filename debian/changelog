@@ -1,5 +1,5 @@
-python-bless (0.2.5-0) unstable; urgency=medium
+python-bless (0.2.5-0) jammy; urgency=medium
 
-   * Initial release.
+  * Initial release.
 
-  -- Sebastien Laclau <seb.laclau@gmail.com>  Wed, 26 Apr 2023 23:48:00
+ -- Sebastien Laclau <seb.laclau@gmail.com>  Wed, 26 Apr 2023 23:48:00 +0100
